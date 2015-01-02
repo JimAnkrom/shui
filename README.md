@@ -1,4 +1,4 @@
 shui
 ====
 
-Sensor UI library
+Realtime sensor and input UI
